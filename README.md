@@ -1,3 +1,3 @@
-# SalesDataset-Analysis
-EXCEL 
+# SalesDataset-Analysis 
 “This project focuses on analyzing a multi-dimensional sales dataset to uncover actionable business insights. The dataset includes transactions with details such as order date, product category, region, customer segment, sales, quantity, discount, and profit. The objective is to clean and structure the data, perform exploratory analysis, identify sales trends, evaluate product and regional performance, and measure profitability. Interactive dashboards and visualizations were created to provide a clear view of business KPIs and assist stakeholders in data-driven decision-making.
+EXCEL
